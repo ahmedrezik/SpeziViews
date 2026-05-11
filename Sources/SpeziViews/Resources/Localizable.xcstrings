@@ -11,26 +11,6 @@
         }
       }
     },
-    "A" : {
-      "localizations" : {
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A"
-          }
-        }
-      }
-    },
-    "B" : {
-      "localizations" : {
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "B"
-          }
-        }
-      }
-    },
     "Completed" : {
       "comment" : "Completed Tile. Subtitle",
       "localizations" : {
@@ -141,6 +121,28 @@
         }
       }
     },
+    "SEQUENTIAL_STEPS_NEXT" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächster Schritt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Next"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nästa"
+          }
+        }
+      }
+    },
     "None" : {
       "localizations" : {
         "sv" : {
@@ -157,16 +159,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "inget markerat"
-          }
-        }
-      }
-    },
-    "Option %u" : {
-      "localizations" : {
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alternativ %u"
           }
         }
       }
